@@ -8,7 +8,7 @@
     "creators": [
       {
         "name": "Silva, Anderson Henrique da",
-        "affiliation": "Neural Thinkers Lab AI Engineering LTDA (https://ntlabs.dev); IFSULDEMINAS",
+        "affiliation": "NTLabs.dev; IFSULDEMINAS",
         "orcid": "0009-0001-7144-4974",
         "email": "anderson@ntlabs.dev"
       }
@@ -65,7 +65,7 @@
       "Peng, S., et al. (2023). The Impact of AI on Developer Productivity: Evidence from GitHub Copilot. arXiv:2302.06590.",
       "Da Silva, A. H. (2025). From Commits to Cognition: A Mixed-Methods Framework for Inferring Developer Mental Models. Zenodo. doi:10.5281/zenodo.18111064"
     ],
-    "version": "1.1.0",
-    "notes": "v1.1.0 (2026-05-08): metadata update — added institutional email (anderson@ntlabs.dev), updated GitHub repository URLs to renamed account (anderson-ntlabs), and added Neural Thinkers Lab AI Engineering LTDA as primary affiliation (alongside IFSULDEMINAS). No changes to scientific content. Preprint establishes priority for Cyborg Cognition framework. This paper extends the Developer Mental Model Framework (DMMF) from artifact analysis to real-time human-AI interaction analysis. Extended version with additional data forthcoming."
+    "version": "1.1.1",
+    "notes": "v1.1.1 (2026-05-08): adopt NTLabs.dev as canonical affiliation label (legal name: Neural Thinkers Lab AI Engineering LTDA; site: https://ntlabs.dev), in addition to author's alma mater IFSULDEMINAS. v1.1.0 (2026-05-08): added institutional email (anderson@ntlabs.dev), updated GitHub repository URLs to renamed account (anderson-ntlabs). No changes to scientific content. Preprint establishes priority for Cyborg Cognition framework. This paper extends the Developer Mental Model Framework (DMMF) from artifact analysis to real-time human-AI interaction analysis. Extended version with additional data forthcoming."
   }
 }

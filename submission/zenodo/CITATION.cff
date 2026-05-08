@@ -6,10 +6,10 @@ authors:
     given-names: Anderson Henrique
     name-particle: da
     orcid: "https://orcid.org/0009-0001-7144-4974"
-    affiliation: "Neural Thinkers Lab AI Engineering LTDA; IFSULDEMINAS"
+    affiliation: "NTLabs.dev; IFSULDEMINAS"
     email: anderson@ntlabs.dev
     website: "https://ntlabs.dev"
-version: "1.1.0"
+version: "1.1.1"
 doi: 10.5281/zenodo.18111064
 date-released: 2026-05-08
 license: CC-BY-4.0
