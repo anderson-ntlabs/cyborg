@@ -52,12 +52,18 @@
         "resource_type": "publication-preprint"
       },
       {
+        "identifier": "10.5281/zenodo.18099559",
+        "relation": "isVersionOf",
+        "resource_type": "publication-preprint"
+      },
+      {
         "identifier": "https://github.com/anderson-ntlabs/cyborg",
         "relation": "isSupplementTo",
         "resource_type": "software",
         "scheme": "url"
       }
     ],
+    "version_doi": "10.5281/zenodo.20090055",
     "references": [
       "Clark, A., & Chalmers, D. (1998). The Extended Mind. Analysis, 58(1), 7-19.",
       "Hutchins, E. (1995). Cognition in the Wild. MIT Press.",

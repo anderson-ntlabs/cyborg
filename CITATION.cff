@@ -37,7 +37,10 @@ repository-code: "https://github.com/anderson-ntlabs/cyborg-developer"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.18099559"
-    description: "Zenodo archive"
+    description: "Concept DOI (resolves to latest version)"
+  - type: doi
+    value: "10.5281/zenodo.20090055"
+    description: "Version DOI for v1.2.0 (2026-05-08)"
 references:
   - type: article
     title: "From Commits to Cognition: A Framework for Inferring Developer Mental Models from Version Control Data"
