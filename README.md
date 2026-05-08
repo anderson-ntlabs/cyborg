@@ -191,4 +191,4 @@ Independent Researcher
 IFSULDEMINAS – Campus Muzambinho
 Minas Gerais, Brazil
 ORCID: [0009-0001-7144-4974](https://orcid.org/0009-0001-7144-4974)
-GitHub: [anderson-ufrj](https://github.com/anderson-ufrj)
+GitHub: [anderson-ntlabs](https://github.com/anderson-ntlabs)

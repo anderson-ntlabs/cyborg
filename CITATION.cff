@@ -14,7 +14,9 @@ authors:
   - family-names: "Da Silva"
     given-names: "Anderson Henrique"
     orcid: "https://orcid.org/0009-0001-7144-4974"
-    affiliation: "Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais (IFSULDEMINAS)"
+    affiliation: "Neural Thinkers Lab AI Engineering LTDA; Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais (IFSULDEMINAS)"
+    email: "anderson@ntlabs.dev"
+    website: "https://ntlabs.dev"
     city: "Minas Gerais"
     country: "BR"
 keywords:
@@ -27,11 +29,11 @@ keywords:
   - cyborg cognition
   - ai coding assistants
 license: CC-BY-4.0
-version: "1.0.0"
-date-released: "2025-12-30"
+version: "1.1.0"
+date-released: "2026-05-08"
 doi: "10.5281/zenodo.18099559"
-url: "https://github.com/anderson-ufrj/cyborg-developer"
-repository-code: "https://github.com/anderson-ufrj/cyborg-developer"
+url: "https://github.com/anderson-ntlabs/cyborg-developer"
+repository-code: "https://github.com/anderson-ntlabs/cyborg-developer"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.18099559"
@@ -42,5 +44,6 @@ references:
     authors:
       - family-names: "Da Silva"
         given-names: "Anderson Henrique"
+        orcid: "https://orcid.org/0009-0001-7144-4974"
     doi: "10.5281/zenodo.18012186"
     year: 2025
