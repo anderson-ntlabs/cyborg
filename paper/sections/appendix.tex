@@ -95,6 +95,7 @@ D &= \frac{33.5 \times 1.0 + 8.7 \times 1.0 + 21.5 \times 0.5 + 35.8 \times 0.5 
 
 \begin{table}[h]
 \caption{Claude Model Tiers}
+\resizebox{\columnwidth}{!}{%
 \begin{tabular}{llll}
 \toprule
 \textbf{Model} & \textbf{Tier} & \textbf{Characteristics} & \textbf{Typical Use} \\
@@ -103,7 +104,8 @@ Opus 4.5 & High & Complex reasoning, large context & Architecture, debugging \\
 Sonnet 4.5 & Medium & Balanced capability and speed & General development \\
 Haiku 4.5 & Low & Fast, efficient & Quick queries, routine \\
 \bottomrule
-\end{tabular}
+\end{tabular}%
+}
 \end{table}
 
 \section{Session JSONL Format}

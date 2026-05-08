@@ -248,6 +248,7 @@ Table~\ref{tab:comparison} summarizes the three data sources.
 \begin{table}[h]
 \caption{Cross-Source Comparison}
 \label{tab:comparison}
+\resizebox{\columnwidth}{!}{%
 \begin{tabular}{lrrr}
 \toprule
 \textbf{Source} & \textbf{Sessions} & \textbf{Messages} & \textbf{Avg/Session} \\
@@ -256,7 +257,8 @@ Claude Code (CLI)$^*$ & 802 & 85,370 & \textbf{106.4} \\
 Claude.ai (Web) & 893 & 7,888 & 8.8 \\
 DevGPT (Community) & 1,920 & 13,958 & 7.3 \\
 \bottomrule
-\end{tabular}
+\end{tabular}%
+}
 \smallskip
 \footnotesize{$^*$Weighted average across all model tiers. Per-model breakdown: Opus 171.6, Haiku 22.6, Sonnet 77.3 msgs/session.}
 \end{table}

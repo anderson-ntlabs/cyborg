@@ -1,32 +1,15 @@
-\documentclass[11pt,a4paper]{article}
+\documentclass{ntlabs-preprint}
 
-% Packages
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage{lmodern}
-\usepackage[margin=1in]{geometry}
 \usepackage{amsmath,amssymb}
 \usepackage{graphicx}
 \usepackage{booktabs}
 \usepackage{longtable}
-\usepackage{hyperref}
-\usepackage{xcolor}
 \usepackage{natbib}
-\usepackage{microtype}
 \usepackage{enumitem}
 \usepackage{listings}
-\usepackage{orcidlink}
 
 % Graphics path
 \graphicspath{{../../figures/}}
-
-% Hyperref setup
-\hypersetup{
-    colorlinks=true,
-    linkcolor=blue,
-    citecolor=blue,
-    urlcolor=blue
-}
 
 % Code listing style
 \lstset{
@@ -34,19 +17,20 @@
   breaklines=true,
   frame=single,
   numbers=left,
-  numberstyle=\tiny\color{gray}
+  numberstyle=\tiny\color{ntlabsgray},
+  rulecolor=\color{ntlabsgray}
 }
 
 % Title
-\title{\textbf{The Cyborg Developer: Empirical Analysis of Cognitive Extension Through Human-AI Collaborative Programming}}
+\title{The Cyborg Developer: Empirical Analysis of Cognitive Extension Through Human-AI Collaborative Programming}
 
-\author{Anderson Henrique da Silva~\orcidlink{0009-0001-7144-4974}\\
-\href{https://ntlabs.dev}{\texttt{NTLabs.dev}} \quad IFSULDEMINAS -- Campus Muzambinho\\
-Minas Gerais, Brasil\\
-\texttt{anderson@ntlabs.dev}
-}
+\author[1,2]{Anderson Henrique da Silva\,\orcidlink{0009-0001-7144-4974}}
+\affil[1]{\href{https://ntlabs.dev}{NTLabs.dev}}
+\affil[2]{IFSULDEMINAS, Minas Gerais, Brasil}
+\affil[ ]{Correspondence: \href{mailto:anderson@ntlabs.dev}{anderson@ntlabs.dev}}
 
-\date{May 2026 (v1.1.0)}
+\date{May 2026}
+\ntlabsversion{v1.2.0}
 
 \begin{document}
 

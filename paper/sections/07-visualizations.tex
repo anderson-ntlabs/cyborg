@@ -92,10 +92,11 @@ Figure~\ref{fig:advanced-summary} presents a comprehensive dashboard that integr
 
 To provide additional visual insights, we generated correlation heat maps for key metrics:
 
-\begin{table}[h]
+\begin{table*}[h]
 \centering
 \caption{Correlation Heat Map: Key Metrics Relationships}
 \label{tab:correlation-heatmap}
+\small
 \begin{tabular}{l|cccccc}
 \toprule
 \textbf{Metric} & \textbf{Sessions} & \textbf{Messages} & \textbf{Tool Intensity} & \textbf{Model Tier} & \textbf{Efficiency} & \textbf{Maturity} \\
@@ -108,7 +109,7 @@ Efficiency & 0.45 & 0.38 & 0.89 & 0.32 & 1.00 & 0.52 \\
 Maturity & 0.91 & 0.83 & 0.69 & 0.65 & 0.52 & 1.00 \\
 \bottomrule
 \end{tabular}
-\end{table}
+\end{table*}
 
 The correlation analysis reveals strong relationships between project maturity and session metrics (0.91 for sessions, 0.83 for messages), and a particularly strong correlation between tool intensity and efficiency (0.89), supporting our weighted delegation approach.
 
